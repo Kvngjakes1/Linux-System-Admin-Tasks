@@ -24,8 +24,7 @@ Initially, I got a "Permission denied" error when changing ownership. Fixed by u
 Observations:
 The ownership change worked correctly.
 Permission changes reflected as expected.
-![file-permission1](https://github.com/user-attachments/assets/52177e65-0685-4d78-83b5-e5684fa7ecbd)
 
-![file-permission2](https://github.com/user-attachments/assets/ba9f709d-d3dd-45ba-90c5-6bee24bdc9c8)
+
 
 
