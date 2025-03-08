@@ -1,2 +1,2 @@
 # Linux-System-Admin-Tasks
-Documenting my Linux Journey  
+A collection of hands-on Linux System Administration tasks covering user management, networking, permissions, process management, and more.
